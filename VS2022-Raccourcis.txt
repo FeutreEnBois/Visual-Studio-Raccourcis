@@ -1,0 +1,4 @@
+CTRL K + CTRL C = Comment selection
+CTRL K + CTRL U = Uncomment selection
+CTRL + clic : Go to selected Class
+ALT + Enter : Action Rapide (réfactor / Implement none existing function)
