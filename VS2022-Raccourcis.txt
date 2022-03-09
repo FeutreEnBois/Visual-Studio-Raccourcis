@@ -1,5 +1,6 @@
 EDITING / REFACTORING :
 
+CTRL + H = Rename tout les élement de ce type dans le fichier/selection/document actif
 CTRL K + CTRL C = Comment selection
 CTRL K + CTRL U = Uncomment selection
 MAJ + Enter : Saut de ligne
