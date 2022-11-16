@@ -1,13 +1,13 @@
-# Visual-Studio-Raccourcis
+# Visual-Studio-Raccourcis<br>
 
-EDITING / REFACTORING :
+EDITING / REFACTORING :<br><br>
 
-CTRL + H = Rename tout les élement de ce type dans le fichier/selection/document actif
-CTRL K + CTRL C = Comment selection
-CTRL K + CTRL U = Uncomment selection
-MAJ + Enter : Saut de ligne
-CTRL + M, CTRL + O : Réduire au définition
-CTRL + K, CTRL + S : Entourer de 
+CTRL + H = Rename tout les élement de ce type dans le fichier/selection/document actif<br>
+CTRL K + CTRL C = Comment selection<br>
+CTRL K + CTRL U = Uncomment selection<br>
+MAJ + Enter : Saut de ligne<br>
+CTRL + M, CTRL + O : Réduire au définition<br>
+CTRL + K, CTRL + S : Entourer de <br>
 F12 : Atteindre la définition
 CTRL + L : Supprimer la ligne sans la copier
 CTRL + A : Sélectionner tout
